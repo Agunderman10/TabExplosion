@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabExplosion", "TabExplosion\TabExplosion.csproj", "{F1B475D7-8966-4C5C-9067-3B88B638FCB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B475D7-8966-4C5C-9067-3B88B638FCB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B475D7-8966-4C5C-9067-3B88B638FCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B475D7-8966-4C5C-9067-3B88B638FCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B475D7-8966-4C5C-9067-3B88B638FCB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80F4D5B4-7403-4BC8-ADBD-F2F4ED3DA808}
+	EndGlobalSection
+EndGlobal
